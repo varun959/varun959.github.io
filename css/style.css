@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto', sans-serif;
     background-color: cornflowerblue;
 }
 
@@ -30,5 +30,5 @@ h1 {
 p, li {
     font-size: 16px;
     line-height: 2em;
-    /* letter-spacing: 0.75px; */
+    letter-spacing: 0.75px;
 }
